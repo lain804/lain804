@@ -1,1 +1,1 @@
-# exploring applications beyond their interfaces
+# exploring apps beyond the frontend
